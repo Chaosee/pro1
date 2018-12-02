@@ -144,7 +144,21 @@
 >
 ## 远程git操作
 > 1. 建立远程仓库
-> ```
-> git remote add origin url
-> ```
+>   ```
+>   git remote add origin(自定义远程库名) url
+>   ```
 >
+> 2. 更改文件,将更新上传到远程origin库的master的分支中
+>
+>    ```
+>    git push origin master
+>    ```
+>
+> 3. 下载文件
+>
+>    ```
+>    git pull 
+>    ```
+>
+>
+
