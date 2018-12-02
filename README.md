@@ -142,3 +142,9 @@
 >    $ git log
 >    ```
 >
+## 远程git操作
+> 1. 建立远程仓库
+> ```
+> git remote add origin url
+> ```
+>
